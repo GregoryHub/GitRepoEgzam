@@ -25,7 +25,7 @@ namespace DodawanieLiczbCalkowitych
             Console.WriteLine("Pasuje? - wpisz tak lub nie");
             Console.WriteLine();
             //tutaj potem napiszę warunek
-           
+           cholera coś tu zniknęło i nic
             
             Console.ReadLine();
         
